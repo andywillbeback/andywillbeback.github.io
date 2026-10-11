@@ -18,6 +18,8 @@ export const zhCopy: Record<string,string> = {
   "Laboratory for Neurodevelopment": "阅读与语言",
   "of Reading and Language": "神经发展实验室",
   "Discover my work ": "了解我的工作 ",
+  "AI Adaptive Learning System ↗": "AI 自适应学习系统 ↗",
+  "Same Wi‑Fi as the lab Mac · http://192.168.1.104:8501/": "需与实验室 Mac 同一 Wi‑Fi",
   "Curiosity into possibility.": "以好奇，探索可能。",
   "THE HONG KONG POLYTECHNIC UNIVERSITY": "香港理工大学",
   "Lab Member": "实验室成员",
